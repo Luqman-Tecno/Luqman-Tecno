@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:luqmantech@outlook.com">
-    <img src="https://img.shields.io/badge/Email-luqman.moustafa10@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:luqmantech@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-luqmantech@hotmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Luqman-Tecno">
     <img src="https://img.shields.io/badge/GitHub-Luqman--Tecno-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
