@@ -25,7 +25,7 @@
 - 💼 I build **Laravel / PHP** backends, **Java** apps, and **web admin panels**
 - 🌱 Experienced with **MySQL**, **REST APIs**, **React**, and **JavaScript**
 - 🎯 Focused on **school systems**, **inventory**, **payments**, and **client websites**
-- 📫 Reach me at **luqman.moustafa10@gmail.com**
+- 📫 Reach me at **luqmantech@hotmail.com**
 - ⚡ **Open to work** — full-time and freelance
 
 ---
